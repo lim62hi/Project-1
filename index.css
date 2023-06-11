@@ -1,0 +1,236 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.code {
+    color: green;
+    font-weight: bold;
+}
+
+.link {
+    text-decoration: none;
+    color: #0645ad;
+}
+
+.link:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.link:visited {
+    color: #18067c;
+}
+
+.back_grey {
+    background: rgb(246, 246, 246);
+    border: 2px solid rgb(242, 242, 242);
+    border-radius: 2px;
+}
+
+.sod {
+    list-style: none;
+    background: rgb(246, 246, 246);
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 2px;
+    width: 16%;
+    padding: 10px;
+    line-height: 22px;
+    font-size: 12.7px;
+}
+
+.num {
+    text-decoration: none;
+    color: black;
+    margin-right: 4px;
+    text-decoration: black;
+}
+
+h2 {
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+.lower {
+    font-size: 12px;
+}
+
+#text {
+    background: white;
+    border: rgb(181, 215, 242) solid 1px;
+    float: right;
+    width: 85.5%;
+    padding: 20px;
+    margin-top: 80px;
+    line-height: 22px;
+    border-right: 0;
+    z-index: 0;
+}
+
+.zags {
+    font-size: 13px;
+    margin: 0;
+}
+
+.aside {
+    border: solid 1px rgb(150, 150, 150);
+    background: rgb(246, 246, 246);
+    width: 20%;
+    padding: 10px;
+    float: right;
+    position: absolute;
+    margin-left: 77%;
+    margin-top: 180px;
+}
+
+.h3,
+h3 {
+    text-align: center;
+    background: rgb(191, 218, 239);
+}
+
+.img_html {
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+.img1_html {
+    padding-top: 10px;
+    padding-left: 4px;
+}
+
+.img2_html {
+    padding-top: 10px;
+    padding-left: 100px;
+}
+
+.html_categ {
+    border: solid 1px rgb(150, 150, 150);
+    background: rgb(246, 246, 246);
+    text-align: center;
+    width: 17%;
+    padding: 6px;
+    float: right;
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 2175px;
+}
+
+.rin {
+    border: solid 1px rgb(150, 150, 150);
+    padding: 6px;
+    width: 17%;
+    float: right;
+    background: rgb(246, 246, 246);
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 3250px;
+}
+
+#left {
+    background: rgb(246, 246, 246);
+    width: 11.79%;
+    height: 4690px;
+    float: left;
+    position: absolute;
+    line-height: 22px;
+    font-size: 12px;
+    z-index: 2;
+}
+
+#top {
+    background: rgb(246, 246, 246);
+    width: 34.5%;
+    height: 80px;
+    position: relative;
+    margin-top: -15px;
+    padding-left: 65.5%;
+    padding-top: 14px;
+    font-size: 12px;
+    float: right;
+    position: absolute;
+    z-index: 1;
+}
+
+h1 {
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: 'Linux Libertine', 'Georgia', 'Times', serif;
+}
+
+hr {
+    padding: 0;
+    margin: 0;
+}
+
+.left_text {
+    padding-left: 25px;
+    margin-top: 20px;
+}
+
+.left_hr {
+    margin-right: 25px;
+    height: 0.5px;
+    border: 0;
+    margin-bottom: 5px;
+    background-color: rgb(205, 205, 205);
+}
+
+.perv {
+    margin-right: 26%;
+}
+
+.prims {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+.prim1 {
+    float: left;
+    position: absolute;
+    margin-top: 3780px;
+    margin-left: 14%;
+    margin-right: 60%;
+}
+
+.prim2 {
+    float: left;
+    position: absolute;
+    margin-top: 3780px;
+    margin-left: 40%;
+    margin-right: 30%;
+}
+
+.prim3 {
+    float: left;
+    position: absolute;
+    margin-top: 3780px;
+    margin-left: 70%;
+    margin-right: 2%;
+}
+#foot {
+    background-color: rgb(246, 246, 246);
+    height: 120px;
+    width: 100%;
+    position: absolute;
+    float: left;
+    margin-top: 4568px;
+    text-align: center;
+    line-height: 120px;
+    font-size: 40px;
+}
+#last {
+    background-color: rgb(246, 246, 246);
+    padding: 10px;
+    border: 1px solid rgb(216, 216, 216);
+    border-radius: 20px;
+}
+#last:hover {
+    background-color: black;
+    color: rgb(246, 246, 246);
+    border-radius: 20px;
+    cursor: pointer;
+}
